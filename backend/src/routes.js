@@ -1,5 +1,4 @@
-//Arquivo de rotas 1
-//Ok
+//Arquivo de rotas
 const express = require('express');
 
 const OngController = require('./controllers/OngController');
